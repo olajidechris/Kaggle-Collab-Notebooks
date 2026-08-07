@@ -1,1 +1,1 @@
-# A collection of collab python projects
+# A collection of Kaggle and Collab Python Notebooks
